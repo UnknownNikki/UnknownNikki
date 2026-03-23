@@ -61,3 +61,7 @@ I love experimenting, breaking things, fixing them, and making everything a litt
 ## 🌐 Connect With Me
 - **Discord:** UnknownNikki  
 - **Website:** Coming soon ✨  
+
+---
+
+![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
