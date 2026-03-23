@@ -64,4 +64,4 @@ I love experimenting, breaking things, fixing them, and making everything a litt
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/UnknownNikki/UnknownNikki/output/github-contribution-grid-snake-dark.svg)
