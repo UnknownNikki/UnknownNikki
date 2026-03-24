@@ -64,6 +64,11 @@ I love experimenting, breaking things, fixing them, and making everything a litt
 
 ---
 
-![snake animation](https://raw.githubusercontent.com/UnknownNikki/UnknownNikki/output/snake-dark.svg?cachebuster=1)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/snake-light.svg" />
+  <img alt="github-snake" src="dist/snake-dark.svg" />
+</picture>
+
 
 
