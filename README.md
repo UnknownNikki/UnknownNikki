@@ -69,7 +69,3 @@ I love experimenting, breaking things, fixing them, and making everything a litt
   <source media="(prefers-color-scheme: light)" srcset="dist/snake-light.svg" />
   <img alt="github-snake" src="dist/snake-dark.svg" />
 </picture>
-
-<img src="assets/footer-newfie-dual.svg" width="100%" alt="hopping chibi Newfie puppy footer" />
-
-
