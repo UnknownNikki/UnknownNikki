@@ -24,8 +24,8 @@ jobs:
         with:
           github_user_name: UnknownNikki
           outputs: |
-            dist/snake-dark.svg?palette=github-dark&color_snake=#18c9fc&color_dots=#cd0cfb,#b100e8,#5e17eb&color_grid=#161b22&color_bg=#0d1117
-            dist/snake-light.svg?palette=github-light&color_snake=#009acb&color_dots=#ff66e8,#d43bff,#8f3bff&color_grid=#d0d7de&color_bg=#ffffff
+            dist/snake-dark.svg?palette=github-dark&color_snake=#18c9fc&color_dots=#0d1117,#cd0cfb,#b100e8,#5e17eb
+            dist/snake-light.svg?palette=github-light&color_snake=#009acb&color_dots=#ffffff,#ff66e8,#d43bff,#8f3bff
 
       - name: Upload animation artifacts
         uses: actions/upload-artifact@v4
