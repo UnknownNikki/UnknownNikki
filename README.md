@@ -65,7 +65,13 @@ I love experimenting, breaking things, fixing them, and making everything a litt
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="snake-light.svg" />
-  <img alt="github-snake" src="snake-dark.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/UnknownNikki/UnknownNikki/output/snake-dark.svg" />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/thu-morrissey/UnknownNikki/UnknownNikki/output/snake-light.svg" />   
+  <img
+    alt="GitHub contribution snake animation"
+    src="snake-dark.svg" />
 </picture>
