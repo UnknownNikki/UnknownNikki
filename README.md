@@ -65,7 +65,7 @@ I love experimenting, breaking things, fixing them, and making everything a litt
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/snake-light.svg" />
-  <img alt="github-snake" src="dist/snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="snake-light.svg" />
+  <img alt="github-snake" src="snake-dark.svg" />
 </picture>
