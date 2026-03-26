@@ -22,10 +22,10 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: UnknownNikki
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake-dark.svg?palette=github-dark&color_snake=#18c9fc&color_dots=#0d1117,#cd0cfb,#b100e8,#5e17eb
-            dist/snake-light.svg?palette=github-light&color_snake=#009acb&color_dots=#ffffff,#ff66e8,#d43bff,#8f3bff
+            dist/snake-dark.svg?palette=github-dark&color_dots=#161b22,#8c0289,#c710b4,#ee20d9,#ff66e8
+            dist/snake-light.svg?palette=github-light&color_dots=#ebedf0,#f2a7e7,#ff66e8,#ee20d9,#930891
 
       - name: Upload animation artifacts
         uses: actions/upload-artifact@v4
