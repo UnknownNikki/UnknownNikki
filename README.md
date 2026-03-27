@@ -70,7 +70,7 @@ I love experimenting, breaking things, fixing them, and making everything a litt
     srcset="https://raw.githubusercontent.com/UnknownNikki/UnknownNikki/output/snake-dark.svg" />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/thu-morrissey/UnknownNikki/UnknownNikki/output/snake-light.svg" />   
+    srcset="https://raw.githubusercontent.com/UnknownNikki/UnknownNikki/output/snake-light.svg" />   
   <img
     alt="GitHub contribution snake animation"
     src="snake-dark.svg" />
