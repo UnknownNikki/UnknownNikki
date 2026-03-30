@@ -5,12 +5,19 @@
 
 ## 🛡️ Shields & Badges
 
-### 🔧 Languages & Tools
+### 🛠️ Tools & Technologies I'm Learning
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat&logo=microsoft-power-automate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
 </p>
+
+*(Still learning every day!)*
 
 ### 🌐 Socials & Platforms
 <p>
@@ -58,9 +65,17 @@ I love experimenting, breaking things, fixing them, and making everything a litt
 
 ---
 
-## 🌐 Connect With Me
-- **Discord:** UnknownNikki  
-- **Website:** Coming soon ✨  
+### 🤝 Connect With Me
+
+<p>
+  <a href="mailto:UnknownNikki@outlook.com">
+    <img src="https://img.shields.io/badge/Email-UnknownNikki%40outlook.com-red?style=flatColor=white" />
+  </a>
+</p>
+
+<p align="right">
+  <img src="https://img.shields.io/badge/Always%20Learning-💡-yellow?style=flat" />
+</p>
 
 ---
 
