@@ -27,16 +27,21 @@
 
 ---
 
-## 🌱 I'm New & Still Learning
-I’m still pretty new to coding and GitHub — but I’m learning fast and having fun doing it.  
+### 🌱 About Me
+
+I'm at the **very start** of my development journey and currently learning Python.  
+My goal is to grow my skills one project at a time and get more comfortable building simple tools and automation.
+
 Right now I’m focusing on:
 
-- Python fundamentals  
-- Discord bot development  
-- GitHub Actions & automation  
-- Building clean, aesthetic workflows   
+- 🐍 Learning **Python basics** step-by-step  
+- 🧪 Practicing small beginner projects  
+- 🔍 Understanding how to work with variables, loops, and functions  
+- 📁 Building confidence using GitHub  
+- ⚙️ Learning how to automate tasks using **Power Automate** 
+- 🤖 Discord bot development     
 
-I love experimenting, breaking things, fixing them, and making everything a little cuter each time.
+I believe in **progress over perfection** — small steps count!
 
 ---
 
